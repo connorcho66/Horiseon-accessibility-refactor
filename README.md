@@ -14,7 +14,11 @@ A marketing company webpage that follows accessiblitly standards, so that we ens
 
 ## Credits
 
-Help of https://www.w3schools.com/tags/tag_figure.asp
+Help from https://www.w3schools.com/tags/tag_figure.asp
+
+## Link
+
+<a href="https://connorcho66.github.io/Horiseon-accessibility-refactor/">Like to deployed website</a>
 
 ## License
 
@@ -24,6 +28,6 @@ N/A
 ## Contact
 
 <ul>
-    <li><b>Email:</b> <a href="connorcho22@gmail.com">connorcho22@gmail.com</li>
-    <li><b>Github:</b> <a href="https://github.com/connorcho66">connorcho66</li>
+    <li><b>Email:</b> <a href="connorcho22@gmail.com">connorcho22@gmail.com</a></li>
+    <li><b>Github:</b> <a href="https://github.com/connorcho66">connorcho66</a></li>
 </ul>
